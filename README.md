@@ -37,3 +37,11 @@ pdflatex main.tex
 ```
 
 Fonctionne également avec ```Texmaker``` et ```Overleaf```.
+
+## Crédits
+Louis-Victor C.
+Jean-Christophe P.
+
+```latex
+\href{https://github.com/Louis-Victor/page-de-presentation-ULaval-LaTeX.git}{\color{blue}\underline{Page de présentation par Louis-Victor C. et Jean-Christophe P.}}
+```
