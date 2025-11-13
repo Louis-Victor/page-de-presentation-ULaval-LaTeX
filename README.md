@@ -36,4 +36,4 @@ Pour compiler ce document, vous aurez besoin de :
 pdflatex main.tex
 ```
 
-Fonctionne également avec ```Texmaker```.
+Fonctionne également avec ```Texmaker``` et ```Overleaf```.
